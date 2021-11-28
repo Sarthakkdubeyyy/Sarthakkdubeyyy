@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sarthakkdubeyyy
+- 👋 Hola, I’m @Sarthakkdubeyyy
 - 👀 I’m interested in web development, animation, hacking, python, bot development, kali linux, machine learning
 - 🌱 I’m currently learning python, animation, machine learning
 - 💞️ I’m looking to collaborate on kali linux, hacking, web development
